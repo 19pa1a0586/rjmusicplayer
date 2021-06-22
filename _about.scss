@@ -1,0 +1,21 @@
+.a{
+	text-align: center;
+	background-image: linear-gradient(to right,rgba(0, 0, 0,0.7),rgba(0,0,0,0.7)), url(Background.jpg);
+	background-size: 100%;
+	border-top: 1px solid #FF0066;
+	color: white;
+	// font-family: 'Noto Sans JP', sans-serif;
+	// font-family: 'Staatliches', cursive;
+    padding: 10px;
+}
+
+.brd{
+	border: 2px solid #C0C0C0;
+	border-radius: 20px;
+    margin-top: 5px;
+	font-family: 'Inconsolata', monospace;
+	// font-family: 'Noto Sans JP', sans-serif;
+	// font-family: 'Staatliches', cursive;
+	padding: 20px;
+	background-color: #87CEFA
+}
